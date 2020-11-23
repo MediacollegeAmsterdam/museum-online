@@ -1,6 +1,6 @@
 # `Museum Online`
 
-#### Repository voor Museum Online
+#### Vragen stellen over je project
 Binnen deze repository kunnen jullie de 'issues' gebruiken om vragen te stellen.
 Deze vragen mag je de hele week toevoegen. Je vragen kunnen beantwoord worden door:
 * Beroepsopdracht docent
