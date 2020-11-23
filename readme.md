@@ -28,3 +28,5 @@ Als je geen vraag ziet wat over jouw probleem gaat dan doe je het volgende;
 
 ## Tutorial "hoe stel ik een vraag"
 De bovenstaande instructies kun je ook terugbekijken in onderstaande video tutorial:
+
+[![Video uitleg "hoe stel ik een vraag"](tutorial_tickets.jpg)](https://web.microsoftstream.com/video/d245977a-86d7-4b35-acec-a3143242552d?list=studio)
