@@ -1,6 +1,7 @@
-# Instructies GIT Issues
-Hier staan de instructies over het stellen van vragen op GIT.  
-Je vragen zullen beantwoord worden door 1 van de volgende;
+# Hoe stel ik een vraag?
+Op deze pagina staan de instructies over hoe je een vraag kunt stellen voor de beroepsopdracht Museum Online.
+Deze vragen leveren jullie aan via GitHub.   
+Je vragen zullen beantwoord worden door 1 van de volgende personen;
 
 - Beroepsopdracht docent
 - Beroepsopdracht instructeur
@@ -24,3 +25,8 @@ Als je geen vraag ziet wat over jouw probleem gaat dan doe je het volgende;
 9. Post een screenshot/gif erbij wat duidelijk het probleem laat zien [GIPHY](https://giphy.com/)
 10. Post de code erbij die je hebt geschreven
 11. Hang een label aan je issue.
+
+## Tutorial "hoe stel ik een vraag"
+De bovenstaande instructies kun je ook terugbekijken in onderstaande video tutorial:
+
+[![Video uitleg "hoe stel ik een vraag"](tutorial_tickets.jpg)](https://web.microsoftstream.com/video/d245977a-86d7-4b35-acec-a3143242552d?list=studio)
