@@ -16,7 +16,7 @@ Voor een algemene opdracht omschrijving en de volgende informatie;
 [Link naar briefing](https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/SD-F1M2BO-MuseumOnline/Class%20Materials/WEEK_2__BRIEFING_Beroepsopdracht_Museum_Online.pdf?csf=1&web=1&e=Eog4fK)
 
 ## Vraag en antwoord
-Het proces voor vragen en antwoorden is te vinden op de volgende link;
+Het proces voor vragen en antwoorden is te vinden op de volgende link;  
 [Omschrijving vraag en antwoord](https://github.com/MediacollegeAmsterdam/museum-online/tree/master/Issues)
 
 Lees deze instructies goed door bij het aanmaken van nieuwe vragen
