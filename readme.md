@@ -20,7 +20,7 @@ Belangrijk:
 * Hou je titel heel kort maar duidelijk. Bijvoorbeeld "Klikken op 3D model werkt niet"
 * Screenshots kunnen helpen om je vraag op te lossen
     * denk hierbij ook aan screenshots van je 'console'. Dan kunnen we gelijk zien of je een error hebt
-* het is helemaal handig als je gebruik maakt van een GIF. Hiermee kan je precies laten zien wat je probeert te doen en/of wat er gebeurd.
+* het is helemaal handig als je gebruik maakt van een GIF. Hiermee kan je precies laten zien wat je probeert te doen en/of wat er gebeurd. Er zijn tools waarmee je makkelijk GIFs kunt maken voor zowel Windows als Macs.
 * Voeg de code toe waar het om gaat. Je kunt dit doen door een link toe te voegen naar je github repository. Eventueel kun je ook je code copy pasten.
 
 #### Labels
