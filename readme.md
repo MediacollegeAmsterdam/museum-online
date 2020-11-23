@@ -1,27 +1,26 @@
-# `Museum Online`
+# Instructies GIT Issues
+Hier staan de instructies over het stellen van vragen op GIT.  
+Je vragen zullen beantwoord worden door 1 van de volgende;
 
-#### Vragen stellen over je project
-Binnen deze repository kunnen jullie de 'issues' gebruiken om vragen te stellen.
-Deze vragen mag je de hele week toevoegen. Je vragen kunnen beantwoord worden door:
-* Beroepsopdracht docent
-* Beroepsopdracht instructeur
-* Unit docent
+- Beroepsopdracht docent
+- Beroepsopdracht instructeur
+- Unit docent
 
-Voordat je je vraag stelt is het wel handig als je tussen alle bestaande vragen kijkt of iemand anders al een soortgelijke vraag heeft gesteld.
+## Voordat je een vraagt aanmaakt
+Beantwoord voor jezelf de volgende vragen voordat je een vraag post bij de issues;
+- Bestaat de vraag al?
+- Staat er al een antwoord bij?
 
-#### Bestaat de vraag al
-Kijk of het antwoord er al bij staat. Waarschijnlijk kan je dan al gelijk aan de slag
-Staat het antwoord er niet bij? Geef dan bij de issue aan dat je een soortgelijk probleem hebt.
-
-#### Bestaat de vraag nog niet
-Maak dan een nieuwe issue aan.
-Belangrijk:
-* Zorg dat je maar 1 probleem per issue aankaart. Heb je meerdere vragen? Stel ze dan in meerdere issues
-* Hou je titel heel kort maar duidelijk. Bijvoorbeeld "Klikken op 3D model werkt niet"
-* Screenshots kunnen helpen om je vraag op te lossen
-    * denk hierbij ook aan screenshots van je 'console'. Dan kunnen we gelijk zien of je een error hebt
-* het is helemaal handig als je gebruik maakt van een GIF. Hiermee kan je precies laten zien wat je probeert te doen en/of wat er gebeurd. Er zijn tools waarmee je makkelijk GIFs kunt maken voor zowel Windows als Macs.
-* Voeg de code toe waar het om gaat. Je kunt dit doen door een link toe te voegen naar je github repository. Eventueel kun je ook je code copy pasten.
-
-#### Labels
-Probeer gebruik te maken van de labels om aan te geven waar je vraag over gaat. Zo kunnen de unit docenten kijken of ze ergens antwoord op kunnen geven.
+## Nieuwe vraag aanmaken
+Als je geen vraag ziet wat over jouw probleem gaat dan doe je het volgende;  
+1. Ga naar de issues pagina: [Link naar GIT Issues](https://github.com/MediacollegeAmsterdam/museum-online/issues)  
+2. Maak een nieuwe issue aan
+3. Zorg dat je maar 1 probleem per issue aanmaakt
+4. Hou de titel kort en duidelijk, bijvoorbeeld "Klikken op 3D model in Unity werkt niet"
+5. Omschrijf duidelijk wat je wilt bereiken
+6. Omschrijf duidelijk waar je tegenaan loopt
+7. Omschrijf wat je al geprobeerd hebt
+8. Post de error erbij die je krijgt
+9. Post een screenshot/gif erbij wat duidelijk het probleem laat zien [GIPHY](https://giphy.com/)
+10. Post de code erbij die je hebt geschreven
+11. Hang een label aan je issue.
